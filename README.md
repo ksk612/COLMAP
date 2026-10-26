@@ -1,5 +1,3 @@
-# COLMAP
-
 # 📷 COLMAP & SfM (Structure-from-Motion) 수학적 원리 완벽 정리
 
 사진들로부터 3차원 공간(포인트 클라우드)과 카메라의 위치(포즈)를 복원해내는 **COLMAP(SfM)**의 핵심 흐름과 수학적 원리를 정리한 문서입니다.
